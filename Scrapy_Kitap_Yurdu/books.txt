@@ -1,0 +1,500 @@
+*************************************************************
+Kitap ismi:Ezbere Yaşayanlar & Vazgeçemediğimiz Alışkanlıklarımızın Kökenleri
+Yazar ismi: Emrah Safa Gürkan
+Yayınevi ismi:KRONİK KİTAP
+*************************************************************
+*************************************************************
+Kitap ismi:Gece Yarısı Kütüphanesi
+Yazar ismi: Matt Haig
+Yayınevi ismi:DOMİNGO YAYINEVİ
+*************************************************************
+*************************************************************
+Kitap ismi:Şeker Portakalı (Ciltsiz)
+Yazar ismi: Jose Mauro De Vasconcelos
+Yayınevi ismi:CAN YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Ben, Kirke
+Yazar ismi: Madeline Miller
+Yayınevi ismi:İTHAKİ YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Simyacı (Ciltsiz)
+Yazar ismi: Paulo Coelho
+Yayınevi ismi:CAN YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Hayvan Çiftliği (Ciltsiz)
+Yazar ismi: George Orwell
+Yayınevi ismi:CAN YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Benim Zürafam Uçabilir
+Yazar ismi: Mert Arık
+Yayınevi ismi:TİMAŞ ÇOCUK YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Paranın Psikolojisi
+Yazar ismi: Morgan Housel
+Yayınevi ismi:SCALA YAYINCILIK
+*************************************************************
+*************************************************************
+Kitap ismi:Başarısızlar Kulübü
+Yazar ismi: Anıl Basılı
+Yayınevi ismi:TİMAŞ İLK GENÇ 
+*************************************************************
+*************************************************************
+Kitap ismi:Cadının Yüreği
+Yazar ismi: Genevieve Gornichec
+Yayınevi ismi:İTHAKİ YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Kalk Yerine Yat
+Yazar ismi: Şermin Yaşar
+Yayınevi ismi:DOĞAN KİTAP
+*************************************************************
+*************************************************************
+Kitap ismi:Kayıp Tanrılar Ülkesi
+Yazar ismi: Ahmet Ümit
+Yayınevi ismi:YAPI KREDİ YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Aylak Adam
+Yazar ismi: Yusuf Atılgan
+Yayınevi ismi:CAN YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Cesur Yeni Dünya
+Yazar ismi: Aldous Huxley
+Yayınevi ismi:İTHAKİ YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Saatleri Ayarlama Enstitüsü
+Yazar ismi: Ahmet Hamdi Tanpınar
+Yayınevi ismi:DERGAH YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:101 Deyim 101 Öykü
+Yazar ismi: Süleyman Bulut
+Yayınevi ismi:CAN ÇOCUK YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Eski Dünyanın Yangını
+Yazar ismi: Kalben 
+Yayınevi ismi:HOLDEN KİTAP
+*************************************************************
+*************************************************************
+Kitap ismi:İçimizdeki Şeytan
+Yazar ismi: Sabahattin Ali
+Yayınevi ismi:YAPI KREDİ YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Kırmızı Pazartesi
+Yazar ismi: Gabriel Garcia Marquez
+Yayınevi ismi:CAN YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Kürk Mantolu Madonna
+Yazar ismi: Sabahattin Ali
+Yayınevi ismi:YAPI KREDİ YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Çocuk, Köstebek, Tilki ve At
+Yazar ismi: Charlie Mackesy
+Yayınevi ismi:MUNDİ
+*************************************************************
+*************************************************************
+Kitap ismi:Veronika Ölmek İstiyor
+Yazar ismi: Paulo Coelho
+Yayınevi ismi:CAN YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Atomik Alışkanlıklar
+Yazar ismi: James Clear
+Yayınevi ismi:PEGASUS YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Momo
+Yazar ismi: Michael Ende
+Yayınevi ismi:PEGASUS YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Fahrenheit 451
+Yazar ismi: Ray Bradbury
+Yayınevi ismi:İTHAKİ YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Fareler ve İnsanlar
+Yazar ismi: John Steinbeck
+Yayınevi ismi:SEL YAYINCILIK
+*************************************************************
+*************************************************************
+Kitap ismi:Bir Ömür Nasıl Yaşanır? & Hayatta Doğru Seçimler İçin Öneriler
+Yazar ismi:Prof. Dr. İlber Ortaylı
+Yayınevi ismi:KRONİK KİTAP
+*************************************************************
+*************************************************************
+Kitap ismi:Var Mısın? & Güçlü Bir Yaşam İçin Öneriler
+Yazar ismi: Doğan Cüceloğlu
+Yayınevi ismi:KRONİK KİTAP
+*************************************************************
+*************************************************************
+Kitap ismi:Güneşi Uyandıralım
+Yazar ismi: Jose Mauro De Vasconcelos
+Yayınevi ismi:CAN YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:İslamiyet Öncesi Türkler
+Yazar ismi:Prof. Dr. Ahmet Taşağıl
+Yayınevi ismi:YEDİTEPE YAYINEVİ
+*************************************************************
+*************************************************************
+Kitap ismi:Geliştiren Anne-Baba
+Yazar ismi: Pelin Çift
+Yayınevi ismi:KRONİK KİTAP
+*************************************************************
+*************************************************************
+Kitap ismi:Serenad (Karton Kapak)
+Yazar ismi: Doğan Cüceloğlu
+Yayınevi ismi:DOĞAN KİTAP
+*************************************************************
+*************************************************************
+Kitap ismi:Nasıl Dayandın Ya Rasulullah & Hayatını Değiştirecek Siyer
+Yazar ismi: Zülfü Livaneli
+Yayınevi ismi:TİMAŞ YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Delifişek
+Yazar ismi: Mehmet  Yıldız
+Yayınevi ismi:CAN YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Çetin Ceviz ve Çetonya
+Yazar ismi: Jose Mauro De Vasconcelos
+Yayınevi ismi:FOM KİTAP
+*************************************************************
+*************************************************************
+Kitap ismi:101 Atasözü 101 Öykü
+Yazar ismi: Sinan Yaşar
+Yayınevi ismi:CAN ÇOCUK YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:İnsanın Anlam Arayışı
+Yazar ismi: Süleyman Bulut
+Yayınevi ismi:OKUYAN US YAYIN
+*************************************************************
+*************************************************************
+Kitap ismi:Görmek
+Yazar ismi: Viktor Emil Frankl
+Yayınevi ismi:KIRMIZI KEDİ YAYINEVİ
+*************************************************************
+*************************************************************
+Kitap ismi:Kuyucaklı Yusuf
+Yazar ismi: Jose Saramago
+Yayınevi ismi:YAPI KREDİ YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:30 Günde 10 Yıl
+Yazar ismi: Sabahattin Ali
+Yayınevi ismi:HAYY KİTAP
+*************************************************************
+*************************************************************
+Kitap ismi:Martıya Uçmayı Öğreten Kedi
+Yazar ismi: Luis Sepulveda
+Yayınevi ismi:CAN ÇOCUK YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Akhilleus’un Şarkısı
+Yazar ismi: Madeline Miller
+Yayınevi ismi:İTHAKİ YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:A-71
+Yazar ismi:Prof. Dr. İskender Pala
+Yayınevi ismi:KAPI YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Gölge Ordu & SADAT’ın Sır Perdesi Aralanıyor
+Yazar ismi: Caner Taşpınar
+Yayınevi ismi:KIRMIZI KEDİ YAYINEVİ
+*************************************************************
+*************************************************************
+Kitap ismi:Gerçek Tıp & Yitik Şifanın İzinde
+Yazar ismi: Ersin Eroğlu
+Yayınevi ismi:YİTİK ŞİFA
+*************************************************************
+*************************************************************
+Kitap ismi:Uğultulu Tepeler
+Yazar ismi: Aidin Salih
+Yayınevi ismi:CAN YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Okçu'nun Yolu
+Yazar ismi: Emily Bronte
+Yayınevi ismi:CAN YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Dune
+Yazar ismi: Paulo Coelho
+Yayınevi ismi:İTHAKİ YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Gece Savaşları & 16. ve 17. Yüzyıllarda Cadılık ve Tarım Kültleri
+Yazar ismi: Frank Herbert
+Yayınevi ismi:PİNHAN YAYINCILIK
+*************************************************************
+*************************************************************
+Kitap ismi:Bin Dokuz Yüz Seksen Dört - 1984 
+Yazar ismi: Carlo Ginzburg
+Yayınevi ismi:KAPRA YAYINCILIK
+*************************************************************
+*************************************************************
+Kitap ismi:Pal Sokağı Çocukları
+Yazar ismi: George Orwell
+Yayınevi ismi:YAPI KREDİ YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Kitaplardan Korkan Çocuk
+Yazar ismi: Ferenc Molnar
+Yayınevi ismi:CAN ÇOCUK YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Sırça Köşk
+Yazar ismi: Susanna Tamaro
+Yayınevi ismi:YAPI KREDİ YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:İki Şehrin Hikayesi
+Yazar ismi: Sabahattin Ali
+Yayınevi ismi:CAN YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Kehribar Geçidi
+Yazar ismi: Charles Dickens
+Yayınevi ismi:TİMAŞ YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Mutluluğu Kaybettiğin Yerde Arama
+Yazar ismi:Prof. Dr. Nazan Bekiroğlu
+Yayınevi ismi:SAHİ KİTAP
+*************************************************************
+*************************************************************
+Kitap ismi:Herkes İçin Siyer 1.Cilt & Peygamberimiz'in (s.a.v.) Hayatı / Mekke Dönemi
+Yazar ismi: Beyhan Budak
+Yayınevi ismi:PROFİL KİTAP
+*************************************************************
+*************************************************************
+Kitap ismi:Seyir
+Yazar ismi: Muhammed Emin Yıldırım
+Yayınevi ismi:MONA
+*************************************************************
+*************************************************************
+Kitap ismi:Kurtlarla Koşan Kadınlar / Vahşi Kadın Arketipine Dair Mit ve Öyküler
+Yazar ismi: Bekir Develi
+Yayınevi ismi:AYRINTI YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Yaşamak
+Yazar ismi: Piraye 
+Yayınevi ismi:JAGUAR KİTAP
+*************************************************************
+*************************************************************
+Kitap ismi:Diriliş Neslinin Amentüsü
+Yazar ismi: Sezai Karakoç
+Yayınevi ismi:DİRİLİŞ YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Jane Eyre
+Yazar ismi: Charlotte Brontë
+Yayınevi ismi:CAN YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Oh Ne Ala Memleket
+Yazar ismi: Şermin Yaşar
+Yayınevi ismi:DOĞAN EGMONT ÇOCUK KİTAPLARI
+*************************************************************
+*************************************************************
+Kitap ismi:İnsan Olmak
+Yazar ismi: Engin Geçtan
+Yayınevi ismi:METİS YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Dune Mesihi
+Yazar ismi: Frank Herbert
+Yayınevi ismi:İTHAKİ YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Levent Göbeklitepe - Tarihi Eser Koruyucuları
+Yazar ismi: Mustafa Orakçı
+Yayınevi ismi:TİMAŞ ÇOCUK YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Siddhartha (Ciltsiz)
+Yazar ismi: Hermann Hesse
+Yayınevi ismi:CAN YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Nohut Adam
+Yazar ismi: Anıl Basılı
+Yayınevi ismi:TİMAŞ ÇOCUK YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Puslu Kıtalar Atlası
+Yazar ismi: İhsan Oktay Anar
+Yayınevi ismi:İLETİŞİM YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Matilda
+Yazar ismi: Roald Dahl
+Yayınevi ismi:CAN ÇOCUK YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:2022 KPSS Tarih Tamamı Çözümlü Soru Bankası
+Yazar ismi: Ramazan Yetgin
+Yayınevi ismi:BENİM HOCAM YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Huzursuzluk
+Yazar ismi: Zülfü Livaneli
+Yayınevi ismi:DOĞAN KİTAP
+*************************************************************
+*************************************************************
+Kitap ismi:Kraliçeyi Kurtarmak
+Yazar ismi: Vladimir Tumanov
+Yayınevi ismi:GÜNIŞIĞI KİTAPLIĞI
+*************************************************************
+*************************************************************
+Kitap ismi:Çizgili Pijamalı Çocuk
+Yazar ismi: John Boyne
+Yayınevi ismi:TUDEM YAYINEVİ
+*************************************************************
+*************************************************************
+Kitap ismi:İnsan Vücudu Tiyatrosu
+Yazar ismi: Maris Wicks
+Yayınevi ismi:DOMİNGO YAYINEVİ
+*************************************************************
+*************************************************************
+Kitap ismi:Gülün Adı (Ciltsiz)
+Yazar ismi: Umberto Eco
+Yayınevi ismi:CAN YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:İnce Memed 1
+Yazar ismi: Yaşar Kemal
+Yayınevi ismi:YAPI KREDİ YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Sahte Sultan
+Yazar ismi: Mahfi Eğilmez
+Yayınevi ismi:REMZİ KİTABEVİ
+*************************************************************
+*************************************************************
+Kitap ismi:Babaannem Geri Döndü
+Yazar ismi: Şermin Yaşar
+Yayınevi ismi:TAZE KİTAP
+*************************************************************
+*************************************************************
+Kitap ismi:Yeşil Peri Gecesi
+Yazar ismi: Ayfer Tunç
+Yayınevi ismi:CAN YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Balıkçı ve Oğlu
+Yazar ismi: Zülfü Livaneli
+Yayınevi ismi:İNKILAP KİTABEVİ
+*************************************************************
+*************************************************************
+Kitap ismi:Charlie'nin Çikolata Fabrikası (Ciltsiz)
+Yazar ismi: Roald Dahl
+Yayınevi ismi:CAN ÇOCUK YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Harry Potter ve Felsefe Taşı
+Yazar ismi: J. K. Rowling
+Yayınevi ismi:YAPI KREDİ YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Dahacık
+Yazar ismi: Şermin Yaşar
+Yayınevi ismi:DOĞAN EGMONT ÇOCUK KİTAPLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Kapak Kızı
+Yazar ismi: Ayfer Tunç
+Yayınevi ismi:CAN YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Son Ada
+Yazar ismi: Zülfü Livaneli
+Yayınevi ismi:DOĞAN KİTAP
+*************************************************************
+*************************************************************
+Kitap ismi:Çavdar Tarlasında Çocuklar
+Yazar ismi: J. D. Salinger
+Yayınevi ismi:YAPI KREDİ YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Haritada Kaybolmak
+Yazar ismi: Vladimir Tumanov
+Yayınevi ismi:GÜNIŞIĞI KİTAPLIĞI
+*************************************************************
+*************************************************************
+Kitap ismi:Tutunamayanlar / Bütün Eserleri 1
+Yazar ismi: Oğuz Atay
+Yayınevi ismi:İLETİŞİM YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:İnsancıklar
+Yazar ismi: Fyodor Mihailoviç Dostoyevski
+Yayınevi ismi:CAN YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Keloğlan Namaz Peşinde
+Yazar ismi: Merve Gülcemal
+Yayınevi ismi:CEZVE ÇOCUK
+*************************************************************
+*************************************************************
+Kitap ismi:İyileşen Evliliğim
+Yazar ismi: Hatice Kübra Tongar
+Yayınevi ismi:HAYY KİTAP
+*************************************************************
+*************************************************************
+Kitap ismi:Uçan Sınıf
+Yazar ismi: Erich Kastner
+Yayınevi ismi:CAN ÇOCUK YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Martin Eden (Beyaz Kapak)
+Yazar ismi: Jack London
+Yayınevi ismi:CAN YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Düşün! Bir de Sağlıklı Düşün! (Lise ve Yetişkin Düzeyi)
+Yazar ismi: Yasin Ramazan
+Yayınevi ismi:UFKA YOLCULUK
+*************************************************************
+*************************************************************
+Kitap ismi:Kiraz Ağacı ile Aramızdaki Mesafe
+Yazar ismi: Paola Peretti
+Yayınevi ismi:TİMAŞ GENÇ
+*************************************************************
+*************************************************************
+Kitap ismi:Beyaz Zambaklar Ülkesinde
+Yazar ismi: Grigory Petrov
+Yayınevi ismi:KAPRA YAYINCILIK
+*************************************************************
+*************************************************************
+Kitap ismi:Kapra Felsefe Seti (10 Kitap)
+Yazar ismi: Sigmund Freud
+Yayınevi ismi:KAPRA YAYINCILIK
+*************************************************************
+*************************************************************
+Kitap ismi:Semerkant
+Yazar ismi: Rene Descartes
+Yayınevi ismi:YAPI KREDİ YAYINLARI
+*************************************************************
+*************************************************************
+Kitap ismi:Bir İdam Mahkumunun Son Günü
+Yazar ismi: Cicero 
+Yayınevi ismi:KAPRA YAYINCILIK
+*************************************************************
